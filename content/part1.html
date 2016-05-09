@@ -1,0 +1,54 @@
+<div id="p1_pseudoContainer" class="col-sm-4 col-sm-offset-4">
+    <div id="p1_pseudoContainer_row" class="input-group col-sm-12">
+
+        <!-- Before selecting a player -->
+        <div class="col-sm-8">
+          <input id="p1_pseudo_input" type="text" class="form-control col-sm-8" value="Hydrafox">
+        </div>
+        <div class="col-sm-4">
+            <div class="input-group-btn">
+                <button id="p1_dropdownRegion" type="button" class="btn btn-primary dropdown-toggle col-sm-8" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span id="p1_dropdownRegion_text">EUW</span> <span class="caret"></span></button>
+                <ul id="p1_listRegion" class="dropdown-menu">
+                    <li><a>EUW</a></li>
+                    <li><a>EUNE</a></li>
+                    <li><a>BR</a></li>
+                    <li><a>JR</a></li>
+                    <li><a>KR</a></li>
+                    <li><a>LAN</a></li>
+                    <li><a>LAS</a></li>
+                    <li><a>NA</a></li>
+                    <li><a>OCE</a></li>
+                    <li><a>RU</a></li>
+                    <li><a>TR</a></li>
+                </ul>
+                <button type="button" id="p1_submit" class="btn btn-success col-sm-4" aria-haspopup="true" aria-expanded="false">OK</button>
+            </div><!-- /btn-group -->
+        </div><!-- /btn-group -->
+    </div><!-- /input-group -->
+
+    <!-- After selecting a player -->
+    <div id="p1_pseudoContainer_row_display">
+        <div id="p1_pseudo"></div>
+        <div id="p1_lane" class="col-sm-offset-3 col-sm-6 container">
+            <div id="p1_laneTop" class="col-sm-offset-1 col-sm-2" data-toggle="tooltip" data-placement="bottom" data-original-title="Top">
+              <div id="p1_topIcon"><div class="p1_iconBorder"></div></div><span></span>
+            </div>
+            <div id="p1_laneJungle" class="col-sm-2" data-toggle="tooltip" data-placement="bottom" data-original-title="Jungle">
+              <div id="p1_jungleIcon"><div class="p1_iconBorder"></div></div><span></span>
+            </div>
+
+            <div id="p1_laneMid" class="col-sm-2" data-toggle="tooltip" data-placement="bottom" data-original-title="Mid">
+              <div id="p1_midIcon"><div class="p1_iconBorder"></div></div><span></span>
+            </div>
+            <div id="p1_laneAdc" class="col-sm-2" data-toggle="tooltip" data-placement="bottom" data-original-title="Adc">
+              <div id="p1_adcIcon"><div class="p1_iconBorder"></div></div><span></span>
+            </div>
+            <div id="p1_laneSupport" class="col-sm-2" data-toggle="tooltip" data-placement="bottom" data-original-title="Support">
+              <div id="p1_supportIcon"><div class="p1_iconBorder"></div></div><span></span>
+            </div>
+        </div>
+    </div>
+</div><!-- /.col-lg-6 -->
+<!-- <span class="glyphicon glyphicon-screenshot" aria-hidden="true" style="color: #aaf; font-size: 1.5em;"></span> -->
+
+<script type="text/javascript" src="js/part1.js"></script>

@@ -1,0 +1,53 @@
+#p2_container {
+	height: 330px !important;
+	padding: 30px;
+}
+
+.p2_championFace {
+ 	width: 120px; 
+ 	height: 120px; 
+ 	margin: auto;
+ 	background: url('../assets/champions/empty.png');
+ 	border-radius: 100px;
+} 
+	.p2_championShadow {
+	 	width: 120px; 
+	 	height: 120px; 
+	 	box-shadow: 0 0 40px black inset;
+	 	border-radius: 100px;
+	}
+		.p2_championBorder {
+		 	margin-left: -9px; 
+		 	width: 137px; 
+		 	height: 210px; 
+		 	background: url('../assets/mastery5.png');
+		}
+			.p2_championPoints {
+			 	padding: 112px 0 0 48px;
+			 	font-size: 12px;
+			 	font-weight: bold;
+			 	color: #611 !important;
+			}
+
+#p2_left, #p2_right {
+	margin-top: 30px;
+}
+			
+#p2_mid .p2_championFace {
+	height: 155px !important;
+	width: 155px !important;
+}
+	#p2_mid .p2_championShadow {
+		height: 155px !important;
+		width: 155px !important;
+	}
+		#p2_mid .p2_championBorder {
+			height: 270px !important;
+			width: 176px !important;
+		 	background: url('../assets/mastery5.png') repeat scroll 0 0 / cover !important;
+		}
+			#p2_mid .p2_championPoints {
+			 	padding: 145px 0 0 59px;
+			 	font-size: 16px;
+			 	font-weight: bold;
+			}

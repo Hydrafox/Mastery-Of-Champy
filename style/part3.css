@@ -1,0 +1,47 @@
+#p3_container {
+	width: 900px;
+	margin: auto;
+}
+
+.p3_objectSelected {
+	border-radius: 30px; 
+	background: cadetblue none repeat scroll 0% 0%; 
+	border: medium outset red;
+}
+
+#p3_tier {
+	padding-top: 5px;
+}
+
+#p3_buttons img {
+	cursor: pointer;
+}
+	.p3_label {
+		padding-top: 5px;
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+
+
+.chartWrapper {
+	margin-bottom: 40px;
+    position: relative;
+}
+
+.chartWrapper > canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    pointer-events:none;
+}
+
+.chartAreaWrapper2 {
+    width: 900px;
+    overflow-x: scroll;
+}
+
+
+.chartAreaWrapper {
+    width: 2000px;
+}

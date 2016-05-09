@@ -1,0 +1,523 @@
+{
+  "1": [
+    "Annie",
+    "Support"
+  ],
+  "2": [
+    "Olaf",
+    "Jungler"
+  ],
+  "3": [
+    "Galio",
+    "Middle Lane"
+  ],
+  "4": [
+    "TwistedFate",
+    "Middle Lane"
+  ],
+  "5": [
+    "XinZhao",
+    "Jungler"
+  ],
+  "6": [
+    "Urgot",
+    "AD Carry"
+  ],
+  "7": [
+    "Leblanc",
+    "Middle Lane"
+  ],
+  "8": [
+    "Vladimir",
+    "Top Lane"
+  ],
+  "9": [
+    "FiddleSticks",
+    "Jungler"
+  ],
+  "10": [
+    "Kayle",
+    "Top Lane"
+  ],
+  "11": [
+    "MasterYi",
+    "Jungler"
+  ],
+  "12": [
+    "Alistar",
+    "Support"
+  ],
+  "13": [
+    "Ryze",
+    "Top Lane"
+  ],
+  "14": [
+    "Sion",
+    "Top Lane"
+  ],
+  "15": [
+    "Sivir",
+    "AD Carry"
+  ],
+  "16": [
+    "Soraka",
+    "Support"
+  ],
+  "17": [
+    "Teemo",
+    "Top Lane"
+  ],
+  "18": [
+    "Tristana",
+    "AD Carry"
+  ],
+  "19": [
+    "Warwick",
+    "Jungler"
+  ],
+  "20": [
+    "Nunu",
+    "Jungler"
+  ],
+  "21": [
+    "MissFortune",
+    "AD Carry"
+  ],
+  "22": [
+    "Ashe",
+    "AD Carry"
+  ],
+  "23": [
+    "Tryndamere",
+    "Top Lane"
+  ],
+  "24": [
+    "Jax",
+    "Top Lane"
+  ],
+  "25": [
+    "Morgana",
+    "Support"
+  ],
+  "26": [
+    "Zilean",
+    "Support"
+  ],
+  "27": [
+    "Singed",
+    "Top Lane"
+  ],
+  "28": [
+    "Evelynn",
+    "Jungler"
+  ],
+  "29": [
+    "Twitch",
+    "AD Carry"
+  ],
+  "30": [
+    "Karthus",
+    "Middle Lane"
+  ],
+  "31": [
+    "Chogath",
+    "Top Lane"
+  ],
+  "32": [
+    "Amumu",
+    "Jungler"
+  ],
+  "33": [
+    "Rammus",
+    "Jungler"
+  ],
+  "34": [
+    "Anivia",
+    "Middle Lane"
+  ],
+  "35": [
+    "Shaco",
+    "Jungler"
+  ],
+  "36": [
+    "DrMundo",
+    "Top Lane"
+  ],
+  "37": [
+    "Sona",
+    "Support"
+  ],
+  "38": [
+    "Kassadin",
+    "Middle Lane"
+  ],
+  "39": [
+    "Irelia",
+    "Top Lane"
+  ],
+  "40": [
+    "Janna",
+    "Support"
+  ],
+  "41": [
+    "Gangplank",
+    "Top Lane"
+  ],
+  "42": [
+    "Corki",
+    "AD Carry"
+  ],
+  "43": [
+    "Karma",
+    "Support"
+  ],
+  "44": [
+    "Taric",
+    "Support"
+  ],
+  "45": [
+    "Veigar",
+    "Middle Lane"
+  ],
+  "48": [
+    "Trundle",
+    "Top Lane"
+  ],
+  "50": [
+    "Swain",
+    "Top Lane"
+  ],
+  "51": [
+    "Caitlyn",
+    "AD Carry"
+  ],
+  "53": [
+    "Blitzcrank",
+    "Support"
+  ],
+  "54": [
+    "Malphite",
+    "Top Lane"
+  ],
+  "55": [
+    "Katarina",
+    "Middle Lane"
+  ],
+  "56": [
+    "Nocturne",
+    "Jungler"
+  ],
+  "57": [
+    "Maokai",
+    "Top Lane"
+  ],
+  "58": [
+    "Renekton",
+    "Top Lane"
+  ],
+  "59": [
+    "JarvanIV",
+    "Jungler"
+  ],
+  "60": [
+    "Elise",
+    "Jungler"
+  ],
+  "61": [
+    "Orianna",
+    "Middle Lane"
+  ],
+  "62": [
+    "MonkeyKing",
+    "Top Lane"
+  ],
+  "63": [
+    "Brand",
+    "Middle Lane"
+  ],
+  "64": [
+    "LeeSin",
+    "Jungler"
+  ],
+  "67": [
+    "Vayne",
+    "AD Carry"
+  ],
+  "68": [
+    "Rumble",
+    "Top Lane"
+  ],
+  "69": [
+    "Cassiopeia",
+    "Middle Lane"
+  ],
+  "72": [
+    "Skarner",
+    "Jungler"
+  ],
+  "74": [
+    "Heimerdinger",
+    "Middle Lane"
+  ],
+  "75": [
+    "Nasus",
+    "Top Lane"
+  ],
+  "76": [
+    "Nidalee",
+    "Top Lane"
+  ],
+  "77": [
+    "Udyr",
+    "Jungler"
+  ],
+  "78": [
+    "Poppy",
+    "Top Lane"
+  ],
+  "79": [
+    "Gragas",
+    "Middle Lane"
+  ],
+  "80": [
+    "Pantheon",
+    "Jungler"
+  ],
+  "81": [
+    "Ezreal",
+    "AD Carry"
+  ],
+  "82": [
+    "Mordekaiser",
+    "Top Lane"
+  ],
+  "83": [
+    "Yorick",
+    "Top Lane"
+  ],
+  "84": [
+    "Akali",
+    "Middle Lane"
+  ],
+  "85": [
+    "Kennen",
+    "Top Lane"
+  ],
+  "86": [
+    "Garen",
+    "Top Lane"
+  ],
+  "89": [
+    "Leona",
+    "Support"
+  ],
+  "90": [
+    "Malzahar",
+    "Middle Lane"
+  ],
+  "91": [
+    "Talon",
+    "Middle Lane"
+  ],
+  "92": [
+    "Riven",
+    "Top Lane"
+  ],
+  "96": [
+    "KogMaw",
+    "AD Carry"
+  ],
+  "98": [
+    "Shen",
+    "Top Lane"
+  ],
+  "99": [
+    "Lux",
+    "Middle Lane"
+  ],
+  "101": [
+    "Xerath",
+    "Middle Lane"
+  ],
+  "102": [
+    "Shyvana",
+    "Jungler"
+  ],
+  "103": [
+    "Ahri",
+    "Middle Lane"
+  ],
+  "104": [
+    "Graves",
+    "AD Carry"
+  ],
+  "105": [
+    "Fizz",
+    "Middle Lane"
+  ],
+  "106": [
+    "Volibear",
+    "Jungler"
+  ],
+  "107": [
+    "Rengar",
+    "Top Lane"
+  ],
+  "110": [
+    "Varus",
+    "AD Carry"
+  ],
+  "111": [
+    "Nautilus",
+    "Jungler"
+  ],
+  "112": [
+    "Viktor",
+    "Middle Lane"
+  ],
+  "113": [
+    "Sejuani",
+    "Jungler"
+  ],
+  "114": [
+    "Fiora",
+    "Top Lane"
+  ],
+  "115": [
+    "Ziggs",
+    "Middle Lane"
+  ],
+  "117": [
+    "Lulu",
+    "Support"
+  ],
+  "119": [
+    "Draven",
+    "AD Carry"
+  ],
+  "120": [
+    "Hecarim",
+    "Jungler"
+  ],
+  "121": [
+    "Khazix",
+    "Jungler"
+  ],
+  "122": [
+    "Darius",
+    "Top Lane"
+  ],
+  "126": [
+    "Jayce",
+    "Top Lane"
+  ],
+  "127": [
+    "Lissandra",
+    "Top Lane"
+  ],
+  "131": [
+    "Diana",
+    "Middle Lane"
+  ],
+  "133": [
+    "Quinn",
+    "Top Lane"
+  ],
+  "134": [
+    "Syndra",
+    "Middle Lane"
+  ],
+  "136": [
+    "AurelionSol",
+    "Middle Lane"
+  ],
+  "143": [
+    "Zyra",
+    "Support"
+  ],
+  "150": [
+    "Gnar",
+    "Top Lane"
+  ],
+  "154": [
+    "Zac",
+    "Jungler"
+  ],
+  "157": [
+    "Yasuo",
+    "Middle Lane"
+  ],
+  "161": [
+    "Velkoz",
+    "Support"
+  ],
+  "201": [
+    "Braum",
+    "Support"
+  ],
+  "202": [
+    "Jhin",
+    "AD Carry"
+  ],
+  "203": [
+    "Kindred",
+    "Jungler"
+  ],
+  "222": [
+    "Jinx",
+    "AD Carry"
+  ],
+  "223": [
+    "TahmKench",
+    "Support"
+  ],
+  "236": [
+    "Lucian",
+    "AD Carry"
+  ],
+  "238": [
+    "Zed",
+    "Middle Lane"
+  ],
+  "245": [
+    "Ekko",
+    "Middle Lane"
+  ],
+  "254": [
+    "Vi",
+    "Jungler"
+  ],
+  "266": [
+    "Aatrox",
+    "Jungler"
+  ],
+  "267": [
+    "Nami",
+    "Support"
+  ],
+  "268": [
+    "Azir",
+    "Middle Lane"
+  ],
+  "412": [
+    "Thresh",
+    "Support"
+  ],
+  "420": [
+    "Illaoi",
+    "Top Lane"
+  ],
+  "421": [
+    "RekSai",
+    "Jungler"
+  ],
+  "429": [
+    "Kalista",
+    "AD Carry"
+  ],
+  "432": [
+    "Bard",
+    "Support"
+  ]
+}
+

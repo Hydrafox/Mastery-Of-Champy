@@ -1,0 +1,81 @@
+#p1_pseudoContainer {
+	margin-top: 40px;
+}
+	#p1_pseudoContainer_row_display{
+		display: none;
+		text-align: center;
+
+		font-weight: bold;
+		font-size: 20px;
+	}
+		#p1_pseudo {
+			font-size: 50px;
+			height: 38px;
+			margin-bottom: 50px;
+			cursor: pointer;
+			text-shadow: 3px 4px darkred;
+		}
+
+		#p1_laneTop, #p1_laneJungle, #p1_laneMid, #p1_laneAdc, #p1_laneSupport {
+	
+			padding: 0;
+			text-align: center;
+			font-size: 12px;			
+		}
+			#p1_lane {
+				height: 49px;
+			}
+
+	#p1_pseudoContainer_row div {
+		padding: 0;
+	}
+
+	#p1_dropdownRegion {
+		border-radius: 0;
+	}
+
+#p1_topIcon{
+	width: 30px;
+	height: 30px;
+	margin: auto;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0) url("../assets/top.png") repeat scroll 0 0 / cover;
+} 
+#p1_jungleIcon {
+	width: 30px;
+	height: 30px;
+	margin: auto;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0) url("../assets/jungle.png") repeat scroll 0 0 / cover;
+} 
+
+#p1_midIcon {
+	width: 30px;
+	height: 30px;
+	margin: auto;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0) url("../assets/mid.png") repeat scroll 0 0 / cover;
+} 
+
+#p1_adcIcon {
+	width: 30px;
+	height: 30px;
+	margin: auto;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0) url("../assets/adc.png") repeat scroll 0 0 / cover;
+} 
+
+#p1_supportIcon {
+	width: 30px;
+	height: 30px;
+	margin: auto;
+	border-radius: 15px;
+	background: rgba(0, 0, 0, 0) url("../assets/support.png") repeat scroll 0 0 / cover;
+}
+
+	.p1_iconBorder {
+		width: 30px;
+		height: 30px;
+		border: medium outset red;
+		border-radius: 15px;
+	}

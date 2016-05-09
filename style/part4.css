@@ -1,0 +1,23 @@
+h1 {
+	
+}
+
+.carousel-inner h1 {
+	margin-bottom: 50px;
+}
+
+#p4_carousel {
+	min-height: 500px;
+	/*background: rgba(170, 170, 200, 0.8);*/
+}
+
+.carousel-inner {
+	text-align: center;
+}
+	#p4_generalContent {
+		text-align: left;
+	}
+
+.carousel-control {
+	background-image: none !important;
+}

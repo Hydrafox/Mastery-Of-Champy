@@ -1,0 +1,38 @@
+html {
+	background: #2B3E50;
+}
+
+body {
+	color: blanchedalmond !important;
+}
+
+#part1 {
+	margin-bottom: 100px;
+}
+
+#part2 {
+	background: blanchedalmond;
+	box-shadow: 0 -3px 22px 0 firebrick, 0 7px 0 0 #687b8d inset,  0 11px 4px 0 dimgray inset;
+}
+
+#part3 {
+	margin: 100px 0;
+}
+
+#part4 {
+	height: 450px;
+	margin-bottom: 100px;
+	padding-top: 50px;
+	color: firebrick;
+	font-size: 15px;
+	font-weight: bold;
+	background: blanchedalmond;
+	box-shadow: 0 -3px 22px 0 firebrick, 0 7px 0 0 #687b8d inset,  0 11px 4px 0 dimgray inset;
+}
+
+#part5 {
+	height: 120px;
+	color: firebrick;
+	background: blanchedalmond;
+	box-shadow: 0 -3px 22px 0 firebrick, 0 7px 0 0 #687b8d inset,  0 11px 4px 0 dimgray inset;
+}

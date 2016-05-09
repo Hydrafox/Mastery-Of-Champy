@@ -1,0 +1,13 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.eu-gb.bluemix.net",
+      "Org": "josserand.s@hotmail.fr",
+      "Space": "dev"
+    },
+    "Name": "Mastery of Champy"
+  },
+  "Path": "",
+  "Type": "Cloud Foundry"
+}
