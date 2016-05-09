@@ -12,9 +12,6 @@ $("#p1_submit").on('click', function () {
 	var region = $("#p1_dropdownRegion_text").html();
 	socket.emit('playerSelected', pseudo, region);
 });
-var pseudo = $("#p1_pseudo_input").val();
-	var region = $("#p1_dropdownRegion_text").html();
-	socket.emit('playerSelected', pseudo, region);
 
 socket.on('playerData', function(data) {
 
