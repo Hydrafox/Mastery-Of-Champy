@@ -5,7 +5,7 @@ module.exports = function() {
 
 	this.PlayerData = function(controller, socket) {
 
-		this.keyAPI = "d5d87927-a51b-4cb8-811d-eb7e345f2fa0";
+		this.keyAPI = "";
 
 		this.controller = controller;
 		this.socket = socket;
