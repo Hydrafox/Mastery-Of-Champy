@@ -4,7 +4,7 @@
     "dependencies": {
         "express": "~3.3.8",
         "request": "~2.72.0",
-        "chartjs.io": "~1.0.22"
+        "chartjs.io": "~1.0.22",
         "socket.io": "~1.2.1"
     },
     "author": "Hydrafox [EUW]",
